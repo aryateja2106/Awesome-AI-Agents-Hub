@@ -1,4 +1,3 @@
-# Blog -1
 
 # Building Your Own AI Research Agent: Tools and Architecture
 
