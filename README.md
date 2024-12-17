@@ -34,7 +34,7 @@ An **AI agent** is a system that interacts with its environment (through inputs 
 ## Parts of an AI Agent: Architecture
 
 The following diagram showcases the different components of an AI agent:
-
+![image.png](image.png)
 
 
 ### Key Components:
